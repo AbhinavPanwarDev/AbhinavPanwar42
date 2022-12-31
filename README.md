@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhinavPanwar
+- 👋 Hi, I’m Abhinav Panwar
 - 👀 I’m interested in Web Apps Development and Machine Learning / Tensorflow
 - 🌱 I’m currently learning Mobile App Development
 - 💞️ I’m looking to collaborate on some projects on Flutter and React Native.
