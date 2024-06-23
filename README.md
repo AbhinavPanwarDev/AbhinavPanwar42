@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhinav Panwar
-- 👀 I’m interested in Web Apps Development and Machine Learning / Tensorflow
-- 🌱 I’m currently learning Mobile App Development
-- 💞️ I’m looking to collaborate on some projects on Flutter and React Native.
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning how to build low latency systems
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me Mail: abhinav.panwarr@gmail.com
 
 <!---
