@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Abhinav Panwar
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning how to build low latency systems
-- 💞️ I’m looking to collaborate on DevOps Projects
-- 📫 How to reach me Mail: abhinav.panwarr@gmail.com
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AbhinavPanwarDev&theme=dark)](https://git.io/streak-stats)
